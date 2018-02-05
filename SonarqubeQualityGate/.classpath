@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/jar files/json-simple-1.1.jar/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/Jar File Used/sonar-ws-client-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/jar files/commons-io-2.4.jar/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/jar files/httpclient-osgi-4.3.jar/httpclient-osgi-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jar File Used/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

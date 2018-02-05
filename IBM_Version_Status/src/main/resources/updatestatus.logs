@@ -1,0 +1,32 @@
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-Component Name: anamika_comp
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-Component Version: 4.0
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-204 No Content
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-Component Name: Component-A
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-Component Version: 2.0
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-204 No Content
+[23 Aug 2016 16:50:27][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-Component Name: anamika_comp
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-Component Version: 4.0
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-The status has been set for component anamika_comp for the version number :4.0
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-Component Name: Component-A
+[23 Aug 2016 16:54:47][IBM_Version_Status.UpdateVersionStatus]-Component Version: 2.0
+[23 Aug 2016 16:54:48][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 16:54:48][IBM_Version_Status.UpdateVersionStatus]-The status has been set for component Component-A for the version number :2.0
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-Component Name: anamika_comp
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-Component Version: 4.0
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-The status has been set to CICD_TEST_PASS for component anamika_comp for the version number :4.0
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-Component Name: Component-A
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-Component Version: 2.0
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 17:23:34][IBM_Version_Status.UpdateVersionStatus]-The status has been set to CICD_TEST_PASS for component Component-A for the version number :2.0
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-Component Name: anamika_comp
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-Component Version: 4.0
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-The status has been set to CICD_TEST_PASS for component anamika_comp for the version number :4.0
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-Component Name: Component-A
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-Component Version: 2.0
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-The server has fulfilled the request. There is no additional content to send in the response.
+[23 Aug 2016 18:12:14][IBM_Version_Status.UpdateVersionStatus]-The status has been set to CICD_TEST_PASS for component Component-A for the version number :2.0

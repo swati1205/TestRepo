@@ -1,0 +1,130 @@
+[12 Jul 2016 15:53:34][json_job_creation.JenkinsCreateJob]-repoObj
+[12 Jul 2016 17:22:54][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:35:49][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:52:29][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[12 Jul 2016 17:52:30][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:52:30][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:57:04][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 17:57:05][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:57:05][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 17:57:05][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[12 Jul 2016 17:57:05][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 17:57:05][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:01:51][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[12 Jul 2016 18:45:13][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[12 Jul 2016 18:45:14][json_job_creation.JenkinsCreateJob]-Response Code :201
+[12 Jul 2016 18:45:14][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 10:30:25][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jar_job_url data is http://10.219.193.72:8080/job/Jar_Project_Creation/buildWithParameters?
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-War_job_url data is http://10.219.193.72:8080/job/War_Project_Creation/buildWithParameters?
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-War_job_url data is http://10.219.193.72:8080/job/War_Project_Creation/buildWithParameters?
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-2&Component_Type=war
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Ear_job_url data is http://10.219.193.72:8080/job/Ear_Project_Creation/buildWithParameters?
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-B&Component_Name=COMP-3&Component_Type=ear
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 10:31:23][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 12:08:05][json_job_creation.JenkinsCreateJob]-Json_filePath data is D:\TestSelfService\repo_json.txt
+[13 Jul 2016 12:08:05][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 12:08:05][json_job_creation.JenkinsCreateJob]-Jar_job_url data is http://10.219.193.72:8080/job/Jar_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:08:05][json_job_creation.JenkinsCreateJob]-War_job_url data is http://10.219.193.72:8080/job/War_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Json_filePath data is D:\TestSelfService\repo_json.txt
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Jar_job_url data is http://10.219.193.72:8080/job/Jar_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 12:11:20][json_job_creation.JenkinsCreateJob]-War_job_url data is http://10.219.193.72:8080/job/War_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Json_filePath data is D:\TestSelfService\repo_json.txt
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Jar_job_url data is http://10.219.193.72:8080/job/Jar_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-War_job_url data is http://10.219.193.72:8080/job/War_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Jenkins_username data is anamika
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Jenkins_password data is anamika
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 12:12:58][json_job_creation.JenkinsCreateJob]-Ear_job_url data is http://10.219.193.72:8080/job/Ear_Project_Creation/buildWithParameters?
+[13 Jul 2016 12:24:45][json_job_creation.JenkinsCreateJob]-Selected repo is: Repository-A
+[13 Jul 2016 12:24:45][json_job_creation.JenkinsCreateJob]-Selected components are: [COMP-1, COMP-2]
+[13 Jul 2016 12:24:45][json_job_creation.JenkinsCreateJob]-{"svn":[{"name":"Repository-A"},{"name":"Repository-B"}]}
+[13 Jul 2016 12:24:45][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-1&Component_Type=jar
+[13 Jul 2016 12:24:46][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 12:24:46][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully
+[13 Jul 2016 12:24:46][json_job_creation.JenkinsCreateJob]-Build Parameters:Repository_Name=Repository-A&Component_Name=COMP-2&Component_Type=war
+[13 Jul 2016 12:24:46][json_job_creation.JenkinsCreateJob]-Response Code :201
+[13 Jul 2016 12:24:46][json_job_creation.JenkinsCreateJob]-Cloudset Job Created Successfully

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+        function callServlet() {
+            document.location.href="MyServlet.java";
+        }
+    </script>
+</head>
+<body>
+	<form action="MyServlet" method="POST">
+		<select name="app" id="app" onchange="callServlet()">
+			<option value="CAFE">CAFE</option>
+			<option value="App1">App1</option>
+			<option value="App2">App2</option>
+			<option value="App3">App3</option>
+		</select>
+	</form>
+</body>
+</html>

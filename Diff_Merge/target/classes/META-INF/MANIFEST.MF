@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: 510104
+Build-Jdk: 1.8.0_102
+Class-Path: svnkit-1.8.5.jar jsch.agentproxy.svnkit-trilead-ssh2-0.0.7
+ .jar jsch.agentproxy.core-0.0.7.jar jna-3.5.2.jar sqljet-1.1.10.jar a
+ ntlr-runtime-3.4.jar platform-3.5.2.jar jsch.agentproxy.connector-fac
+ tory-0.0.7.jar jsch.agentproxy.usocket-jna-0.0.7.jar jsch.agentproxy.
+ usocket-nc-0.0.7.jar jsch.agentproxy.sshagent-0.0.7.jar jsch.agentpro
+ xy.pageant-0.0.7.jar sequence-library-1.0.2.jar trilead-ssh2-1.0.0-bu
+ ild217.jar
+Main-Class: com.cognizant.subversion.DoDiffMerge
+Created-By: Maven Integration for Eclipse
+

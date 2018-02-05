@@ -1,0 +1,4 @@
+svnservetemplate=/authorities/svnserve.conf.template
+hookstemplate=/authorities/hooks
+pidusername=pidcie1
+pidpassword=pidcie1

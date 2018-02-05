@@ -1,0 +1,156 @@
+[10 Aug 2016 18:17:48][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:104)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:40)
+[10 Aug 2016 18:18:53][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 4, Size: 4
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:107)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:40)
+[10 Aug 2016 18:42:06][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:111)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:51:11][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:111)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:51:30][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:111)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:51:55][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:111)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:52:18][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 7, Size: 7
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:112)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:53:31][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 55, Size: 55
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:103)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:56:48][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 55, Size: 55
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:103)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 18:58:57][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 55, Size: 55
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:103)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[10 Aug 2016 19:03:48][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 55, Size: 55
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:103)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:41)
+[11 Aug 2016 10:40:51][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a text value from a boolean cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:294)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:120)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 10:42:21][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a boolean value from a text cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getBooleanCellValue(XSSFCell.java:164)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:120)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 10:43:28][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a boolean value from a text cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getBooleanCellValue(XSSFCell.java:164)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:120)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 10:43:55][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a boolean value from a text cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getBooleanCellValue(XSSFCell.java:164)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:120)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 12:23:15][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a boolean value from a text cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getBooleanCellValue(XSSFCell.java:164)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:121)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 12:24:24][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IllegalStateException: Cannot get a boolean value from a text cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getBooleanCellValue(XSSFCell.java:164)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:121)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:42)
+[11 Aug 2016 12:51:38][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CAFE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CafeBuild.sln&PREPARE_PROJ_PATH=Cafe.Build.proj&PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=N/A&SKIP_TEST=true&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:38][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT CAFE CACHE SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.CafeCacheService.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareCafeCacheService&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=N/A&SKIP_TEST=true&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT CHANNEL LINEUP SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.ChannelLineup.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareCDTChannelLineup&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDTServices\CDT.WebApiService\CDTChannelLineUp-CSTest\bin\Release\CDTChannelLineUp-CSTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT PAYMENT SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDTPaymentService.sln&PREPARE_PROJ_PATH=CDTPaymentService.Build.proj &PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDT.UnitTests.PaymentService\bin\Release\CDT.UnitTests.PaymentService.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT PRODUCT CONFIGURATION&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.ProductConfiguration.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareProductConfigration&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDTServices\CDT.ProductConfiguration\CDT.ProductConfiguration.CafeTest\bin\Release\CDT.ProductConfiguration.CafeTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDTService.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CommercialSvc\CommercialSvc.DataAccess-CSTest\bin\Release\CommercialSvc.DataAccess-CSTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:51:39][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CAFE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CafeBuild.sln&PREPARE_PROJ_PATH=Cafe.Build.proj&PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=N/A&SKIP_TEST=true&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT CAFE CACHE SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.CafeCacheService.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareCafeCacheService&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=N/A&SKIP_TEST=true&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT CHANNEL LINEUP SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.ChannelLineup.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareCDTChannelLineup&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDTServices\CDT.WebApiService\CDTChannelLineUp-CSTest\bin\Release\CDTChannelLineUp-CSTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:50][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT PAYMENT SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDTPaymentService.sln&PREPARE_PROJ_PATH=CDTPaymentService.Build.proj &PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDT.UnitTests.PaymentService\bin\Release\CDT.UnitTests.PaymentService.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT PRODUCT CONFIGURATION&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDT.ProductConfiguration.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=PrepareProductConfigration&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CDTServices\CDT.ProductConfiguration\CDT.ProductConfiguration.CafeTest\bin\Release\CDT.ProductConfiguration.CafeTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Build Parameters:COMPONENT_NAME=CDT SERVICE&COMPONENT_TYPE=SERVICE&BUILD_SLN_PATH=CDTService.build.sln&PREPARE_PROJ_PATH=CDTService.Build.proj&PREPARE_TARGET=Prepare&BUILD_TARGET=Rebuild&UNIT_TEST_PATH=CommercialSvc\CommercialSvc.DataAccess-CSTest\bin\Release\CommercialSvc.DataAccess-CSTest.dll&SKIP_TEST=false&SPRINT_NO=1608.01&TFS_PROJECT_PATH=someValue
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Connecting to Cloudset
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Response Code :201
+[11 Aug 2016 12:53:51][cloudset_bulkjob_creation.BulkJobCreation]-Cloudset Job Created Successfully
+[19 Aug 2016 11:25:00][cloudset_bulkjob_creation.BulkJobCreation]-Exception occured:
+java.lang.IndexOutOfBoundsException: Index: 8, Size: 8
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.excelParser(BulkJobCreation.java:115)
+	at com.cognizant.cloudset_bulkjob_creation.BulkJobCreation.main(BulkJobCreation.java:45)

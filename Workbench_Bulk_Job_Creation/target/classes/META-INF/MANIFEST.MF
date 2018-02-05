@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 510104
+Build-Jdk: 1.8.0_152
+Class-Path: poi-ooxml-3.9.jar poi-3.9.jar poi-ooxml-schemas-3.9.jar xm
+ lbeans-2.3.0.jar stax-api-1.0.1.jar dom4j-1.6.1.jar xml-apis-1.0.b2.j
+ ar log4j-1.2.15.jar mail-1.4.jar activation-1.1.jar commons-codec-1.9
+ .jar
+Main-Class: com.cognizant.Workbench_Bulk_Job_Creation.BulkJobCreation
+Created-By: Maven Integration for Eclipse
+
